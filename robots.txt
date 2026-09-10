@@ -1,0 +1,254 @@
+User-Agent: *
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Claude-Web
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Claude-SearchBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Claude-User
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: anthropic-ai
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Perplexity-User
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: GoogleOther
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Googlebot-News
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Applebot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Amazonbot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Meta-ExternalAgent
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Meta-ExternalFetcher
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: FacebookBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Bytespider
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: TikTokSpider
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: CCBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: cohere-ai
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: cohere-training-data-crawler
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: MistralAI-User
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: YouBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: DuckAssistBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Bravebot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: bingbot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: msnbot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: PetalBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Diffbot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: omgili
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Omgilibot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Timpibot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Webzio-Extended
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: ImagesiftBot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: AI2Bot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Kangaroo Bot
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: SemrushBot-OCOB
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+User-Agent: Firecrawl
+Allow: /
+Disallow: /c/
+Disallow: /portal/
+Disallow: /api/
+
+Host: https://softhomeglobal.com
+Sitemap: https://softhomeglobal.com/sitemap.xml

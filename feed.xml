@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Soft Home Global — working notes</title>
+  <link>https://softhomeglobal.com/insights/</link>
+  <description>Denial code guides, accounts receivable, prior authorization, eligibility and Davis-Bacon certified payroll. Written for people with the problem open in front of them.</description>
+  <language>en-US</language>
+  <atom:link href="https://softhomeglobal.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Modifier 26 and TC: who bills which half</title>
+    <link>https://softhomeglobal.com/insights/modifier-26-and-tc/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/modifier-26-and-tc/</guid>
+    <description>A diagnostic service can be two claims or one, and billing the wrong half is one of the quietest ways to lose money in radiology and cardiology.</description>
+    <category>Coding</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The 8-minute rule, and the units it costs you</title>
+    <link>https://softhomeglobal.com/insights/physical-therapy-8-minute-rule/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/physical-therapy-8-minute-rule/</guid>
+    <description>Timed codes are billed on total treatment time, not per code, and the two ways of counting produce different answers on the same visit.</description>
+    <category>Specialty billing</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How long payer enrolment actually takes</title>
+    <link>https://softhomeglobal.com/insights/credentialing-timeline/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/credentialing-timeline/</guid>
+    <description>The honest ranges, what makes each one longer, and the dates that quietly deactivate a provider who is already enrolled.</description>
+    <category>Credentialing</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to read an 835 remittance without missing money</title>
+    <link>https://softhomeglobal.com/insights/how-to-read-an-835-remittance/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-to-read-an-835-remittance/</guid>
+    <description>The single highest-value skill on a billing floor. Six fields decide whether a balance is yours to chase, the patient’s to pay, or nobody’s.</description>
+    <category>Payment posting</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Seven things that trigger a certified payroll audit</title>
+    <link>https://softhomeglobal.com/insights/certified-payroll-audit-red-flags/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/certified-payroll-audit-red-flags/</guid>
+    <description>Reviewers look at a small number of things first. Each one is visible without reading a single wage rate, and each one is avoidable.</description>
+    <category>Certified payroll</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Form WH-347, box by box</title>
+    <link>https://softhomeglobal.com/insights/wh-347-box-by-box/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/wh-347-box-by-box/</guid>
+    <description>The federal certified payroll form, field by field, and the four boxes that account for most rejections.</description>
+    <category>Certified payroll</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why prior authorisations get delayed, and how to stop it</title>
+    <link>https://softhomeglobal.com/insights/why-prior-authorizations-get-delayed/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/why-prior-authorizations-get-delayed/</guid>
+    <description>Almost every authorisation delay traces to one of eight causes, and six of them are inside the practice rather than at the payer.</description>
+    <category>Prior authorization</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What a good clean claim rate actually is</title>
+    <link>https://softhomeglobal.com/insights/clean-claim-rate-benchmarks/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/clean-claim-rate-benchmarks/</guid>
+    <description>The number quoted everywhere is 95%. It is close to meaningless without a definition, and the definition is where practices and vendors quietly disagree.</description>
+    <category>Reporting</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to overturn a timely filing denial</title>
+    <link>https://softhomeglobal.com/insights/overturn-a-timely-filing-denial/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/overturn-a-timely-filing-denial/</guid>
+    <description>A timely filing denial is not always final, and the thing that overturns it is almost never an argument. It is a record showing the claim arrived on time.</description>
+    <category>Denials</category>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How certified payroll filing works, week by week</title>
+    <link>https://softhomeglobal.com/insights/how-certified-payroll-filing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-certified-payroll-filing-works/</guid>
+    <description>Certified payroll is a weekly deadline that never moves, on projects with different rules each. This is what a dedicated seat does, and what a contractor has to define first.</description>
+    <category>Certified payroll</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How chronic care management and RPM billing work</title>
+    <link>https://softhomeglobal.com/insights/how-chronic-care-management-billing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-chronic-care-management-billing-works/</guid>
+    <description>These programmes are administratively heavy and clinically light, which is why they stall. This is what the administrative layer has to do for the clinical work to be billable.</description>
+    <category>Operations</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How dental billing and medical cross-coding work</title>
+    <link>https://softhomeglobal.com/insights/how-dental-billing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-dental-billing-works/</guid>
+    <description>Dental plans limit what they pay in ways medical plans do not — annual maximums, frequency limits, waiting periods, missing tooth clauses. Verification here is a treatment-planning input, not a formality.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How DME billing works, and why documentation decides it</title>
+    <link>https://softhomeglobal.com/insights/how-dme-billing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-dme-billing-works/</guid>
+    <description>In durable medical equipment the claim is the easy part. The documentation file behind it decides whether the claim survives, and it has to be complete before the item ships.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How behavioural health and ABA billing work</title>
+    <link>https://softhomeglobal.com/insights/how-behavioral-health-billing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-behavioral-health-billing-works/</guid>
+    <description>This is authorization-unit accounting as much as billing. Run out of approved units mid-course and the sessions still happen — they just stop being billable.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How workers’ compensation billing differs from commercial</title>
+    <link>https://softhomeglobal.com/insights/how-workers-compensation-billing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-workers-compensation-billing-works/</guid>
+    <description>These claims pay slowly, on different rules, to a different party, and they need a queue that is not the commercial one. This is what that queue has to contain.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to find payer underpayments nobody is looking for</title>
+    <link>https://softhomeglobal.com/insights/how-to-find-payer-underpayments/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-to-find-payer-underpayments/</guid>
+    <description>A denial announces itself. An underpayment does not — it looks exactly like a payment. This is how to build the comparison that finds them and the evidence that recovers them.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How release of information works, and the 30-day clock</title>
+    <link>https://softhomeglobal.com/insights/how-release-of-information-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-release-of-information-works/</guid>
+    <description>Records requests are a queue with legal deadlines attached, handled in most practices by whoever has a spare afternoon. This is how to run it as a tracked function with an audit trail that survives being asked about.</description>
+    <category>Operations</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How hospital patient access and pre-registration work</title>
+    <link>https://softhomeglobal.com/insights/how-patient-access-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-patient-access-works/</guid>
+    <description>Registration is where most denials are created and where almost none are detected. This is what pre-registration and financial clearance should cover, and how to staff it as a defined queue.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What a virtual medical assistant actually does</title>
+    <link>https://softhomeglobal.com/insights/what-a-virtual-medical-assistant-does/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/what-a-virtual-medical-assistant-does/</guid>
+    <description>A virtual medical assistant works if the role is scoped as a defined set of queues and fails if it is scoped as &quot;help&quot;. This is the difference, in practical terms, and what to decide before the first day.</description>
+    <category>Operations</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How referral intake and coordination work</title>
+    <link>https://softhomeglobal.com/insights/how-referral-coordination-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-referral-coordination-works/</guid>
+    <description>A referral that arrives by fax and is never logged is a patient the practice never sees and a referrer who stops sending. This is how to run intake so every referral is tracked from arrival to booked visit.</description>
+    <category>Operations</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How scheduling, recall and no-show recovery work</title>
+    <link>https://softhomeglobal.com/insights/how-scheduling-and-recall-work/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-scheduling-and-recall-work/</guid>
+    <description>An empty slot is not recoverable — the hour passes whether or not somebody is in it. This is how a dedicated seat fills the template, works the recall list, and gets cancellations back on the books the same day.</description>
+    <category>Operations</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How patient billing and statements work</title>
+    <link>https://softhomeglobal.com/insights/how-patient-billing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-patient-billing-works/</guid>
+    <description>Patient balances are the part of accounts receivable most likely to be billed wrongly and least likely to be chased consistently. This is how to run the cycle without damaging the relationship the practice depends on.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How provider credentialing works, and what stalls it</title>
+    <link>https://softhomeglobal.com/insights/how-provider-credentialing-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-provider-credentialing-works/</guid>
+    <description>Credentialing is administratively simple and operationally brutal, because everything depends on dates nobody is watching. This is how to staff the chase and keep a calendar that prevents the expensive version.</description>
+    <category>Credentialing</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How medical coding works in a practice</title>
+    <link>https://softhomeglobal.com/insights/how-medical-coding-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-medical-coding-works/</guid>
+    <description>Coding is the one back-office function where being fast and wrong is worse than being slow. This is how to set up an outsourced coding seat so the record leads and the query process actually works.</description>
+    <category>Operations</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How charge entry and claim submission work</title>
+    <link>https://softhomeglobal.com/insights/how-charge-entry-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-charge-entry-works/</guid>
+    <description>Charge lag is the cheapest problem in the revenue cycle to fix and the least often measured. This is how a dedicated charge entry seat runs, what it should scrub before submission, and what has to be decided first.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How payment posting works, and where money hides</title>
+    <link>https://softhomeglobal.com/insights/how-payment-posting-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-payment-posting-works/</guid>
+    <description>Payment posting decides what every other report in the practice says. Posted carelessly, it hides denials inside adjustments and makes the ageing report fiction. This is how to run it properly.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How denial management works, and what it costs to skip</title>
+    <link>https://softhomeglobal.com/insights/how-denial-management-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-denial-management-works/</guid>
+    <description>Reworking denials one at a time is labour. Classifying them is the part that stops next month’s. This is how to run a denial queue that does both, and what to define before handing it to anybody.</description>
+    <category>Denials</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How prior authorisation works, start to finish</title>
+    <link>https://softhomeglobal.com/insights/how-prior-authorization-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-prior-authorization-works/</guid>
+    <description>Authorization work fails in the gap between submitting and deciding. This is how to staff the chase, what to record, and how to stop authorizations expiring quietly before the service is rendered.</description>
+    <category>Prior authorization</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How eligibility verification actually works</title>
+    <link>https://softhomeglobal.com/insights/how-eligibility-verification-works/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-eligibility-verification-works/</guid>
+    <description>Most of what a practice loses to coverage problems is decided before the patient arrives. This is what a dedicated eligibility seat checks, when it checks it, and how to set the queue up so the front desk stops finding out at the counter.</description>
+    <category>Eligibility</category>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What breaks at two, five and ten providers</title>
+    <link>https://softhomeglobal.com/insights/small-practice-billing-breaking-points/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/small-practice-billing-breaking-points/</guid>
+    <description>Billing does not degrade smoothly as a practice grows. It breaks at predictable sizes, and each break has a different fix.</description>
+    <category>Operations</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Seven signs your billing company is underperforming</title>
+    <link>https://softhomeglobal.com/insights/is-your-billing-company-underperforming/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/is-your-billing-company-underperforming/</guid>
+    <description>Most practices find out late, because the reporting they receive is designed to look reassuring. What to ask for, and what the answers should be.</description>
+    <category>Operations</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Days in AR: what the number hides and how to move it</title>
+    <link>https://softhomeglobal.com/insights/days-in-ar-and-what-drives-it/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/days-in-ar-and-what-drives-it/</guid>
+    <description>A single average conceals the accounts that are actually costing you. The three cuts of the same data that tell you where the labour should go.</description>
+    <category>Accounts receivable</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Switching billing companies without losing a month of revenue</title>
+    <link>https://softhomeglobal.com/insights/switching-billing-companies/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/switching-billing-companies/</guid>
+    <description>The handover is where the money is lost — in the claims in flight and the ageing report nobody agreed to own. A sequence that protects both.</description>
+    <category>Operations</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>In-house biller or outsourced? An honest decision framework</title>
+    <link>https://softhomeglobal.com/insights/in-house-or-outsource-billing/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/in-house-or-outsource-billing/</guid>
+    <description>When hiring locally is genuinely right, when it is not, and the cost comparison that uses what an employer actually pays rather than the salary line.</description>
+    <category>Operations</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why insurers deny claims, and which denials are worth fighting</title>
+    <link>https://softhomeglobal.com/insights/why-insurers-deny-claims/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/why-insurers-deny-claims/</guid>
+    <description>Most denials are recoverable and most are never worked. The published data on denial rates, what it costs to fight one, and how to decide which to chase.</description>
+    <category>Denials</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How much should medical billing cost? The published numbers</title>
+    <link>https://softhomeglobal.com/insights/how-much-should-medical-billing-cost/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/how-much-should-medical-billing-cost/</guid>
+    <description>Percentage of collections, per claim, flat monthly, or a salary. What each one actually costs a practice, with the figures the vendors themselves publish.</description>
+    <category>Pricing</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Volume is the same but the deposit is smaller. Where did it go?</title>
+    <link>https://softhomeglobal.com/insights/revenue-down-but-volume-the-same/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/revenue-down-but-volume-the-same/</guid>
+    <description>Same schedule, same providers, smaller cheque. There are five places the money goes, and three reports you already have will tell you which one.</description>
+    <category>Revenue cycle</category>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N122: Add-on code cannot be billed by itself</title>
+    <link>https://softhomeglobal.com/denials/n122/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n122/</guid>
+    <description>The code billed only exists alongside a primary procedure, and no acceptable primary was on the claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N115: Decision based on a Local Coverage Determination</title>
+    <link>https://softhomeglobal.com/denials/n115/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n115/</guid>
+    <description>A published coverage policy for your region decided this, and that policy states exactly what would have been covered.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N54: Claim inconsistent with the authorised services</title>
+    <link>https://softhomeglobal.com/denials/n54/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n54/</guid>
+    <description>There is an authorisation, and what was billed does not match what it covers.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N34: Incorrect claim form or format for this service</title>
+    <link>https://softhomeglobal.com/denials/n34/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n34/</guid>
+    <description>The service was billed on the wrong form or in the wrong format for the payer.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N30: Patient ineligible for this service</title>
+    <link>https://softhomeglobal.com/denials/n30/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n30/</guid>
+    <description>The patient does not qualify for this particular service under their plan, even though they may hold coverage.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N29: Missing documentation, orders, notes or report</title>
+    <link>https://softhomeglobal.com/denials/n29/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n29/</guid>
+    <description>The payer needs clinical documentation it does not have.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>MA130: Claim unprocessable — no appeal rights</title>
+    <link>https://softhomeglobal.com/denials/ma130/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/ma130/</guid>
+    <description>The claim was rejected as unprocessable rather than denied. There is nothing to appeal — it has to be corrected and sent again as a new claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N382: Missing, incomplete or invalid patient identifier</title>
+    <link>https://softhomeglobal.com/denials/n382/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n382/</guid>
+    <description>The payer cannot match the patient from what was sent.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N130: Consult plan benefit documents for restrictions</title>
+    <link>https://softhomeglobal.com/denials/n130/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n130/</guid>
+    <description>The payer is pointing you at the plan document: there is a restriction on this service and the document says what it is.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-272: Coverage or program guidelines not met</title>
+    <link>https://softhomeglobal.com/denials/co-272/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-272/</guid>
+    <description>The service is covered in principle but this instance did not meet the programme’s conditions.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-256: Service not payable under the managed care contract</title>
+    <link>https://softhomeglobal.com/denials/co-256/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-256/</guid>
+    <description>The managed care contract in force does not provide for payment of this service.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-253: Sequestration reduction in federal payment</title>
+    <link>https://softhomeglobal.com/denials/co-253/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-253/</guid>
+    <description>A statutory percentage reduction applied to a federal payment. It is not a denial and there is nothing to appeal.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-251: Attachment or documentation incomplete or deficient</title>
+    <link>https://softhomeglobal.com/denials/co-251/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-251/</guid>
+    <description>Something was sent, and it did not contain what the payer needed.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-242: Services not provided by network providers</title>
+    <link>https://softhomeglobal.com/denials/co-242/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-242/</guid>
+    <description>The plan pays only for its own network, and this provider was not in it for this service.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-227: Requested information from the patient not supplied</title>
+    <link>https://softhomeglobal.com/denials/co-227/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-227/</guid>
+    <description>The payer asked the patient for something — very often about other insurance or an accident — and did not get it.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-226: Requested information from the provider not supplied</title>
+    <link>https://softhomeglobal.com/denials/co-226/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-226/</guid>
+    <description>The payer asked you for something, and either nothing arrived or what arrived did not answer the question.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-184: Ordering provider not eligible to order or prescribe</title>
+    <link>https://softhomeglobal.com/denials/co-184/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-184/</guid>
+    <description>The provider named as ordering the service is not accepted by the payer in that role.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-183: Referring provider not eligible to refer</title>
+    <link>https://softhomeglobal.com/denials/co-183/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-183/</guid>
+    <description>Somebody is named as the referring provider who the payer will not accept in that role.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-182: Procedure modifier invalid on the date of service</title>
+    <link>https://softhomeglobal.com/denials/co-182/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-182/</guid>
+    <description>The modifier attached to the code was not valid on the day of the service.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-181: Procedure code invalid on the date of service</title>
+    <link>https://softhomeglobal.com/denials/co-181/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-181/</guid>
+    <description>The code existed at some point but was not valid on the day the service happened.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-177: Patient has not met eligibility requirements</title>
+    <link>https://softhomeglobal.com/denials/co-177/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-177/</guid>
+    <description>There is coverage, but the patient has not satisfied a condition the plan attaches to it.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-167: Diagnosis is not covered</title>
+    <link>https://softhomeglobal.com/denials/co-167/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-167/</guid>
+    <description>The payer does not cover the condition you billed, whatever the procedure was.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-150: Information does not support this level of service</title>
+    <link>https://softhomeglobal.com/denials/co-150/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-150/</guid>
+    <description>The payer accepts the visit happened but not at the level you billed — usually an E/M downcode.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-136: Failure to follow the prior payer’s coverage rules</title>
+    <link>https://softhomeglobal.com/denials/co-136/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-136/</guid>
+    <description>This is a secondary claim, and the secondary payer says the primary’s rules were not followed before it reached them.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-39: Services denied at the time authorization was requested</title>
+    <link>https://softhomeglobal.com/denials/co-39/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-39/</guid>
+    <description>The authorisation was asked for and refused, and the service was delivered anyway.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-35: Lifetime benefit maximum reached</title>
+    <link>https://softhomeglobal.com/denials/co-35/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-35/</guid>
+    <description>The policy has a lifetime cap on this benefit and the patient has used it.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-33: Insured has no dependent coverage</title>
+    <link>https://softhomeglobal.com/denials/co-33/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-33/</guid>
+    <description>The subscriber’s policy covers the subscriber only, so a dependent’s claim has nothing to pay against.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-32: Patient is not an eligible dependent</title>
+    <link>https://softhomeglobal.com/denials/co-32/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-32/</guid>
+    <description>The payer does not recognise this patient as a covered dependent on the subscriber’s policy.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-24: Charges covered under a capitation agreement</title>
+    <link>https://softhomeglobal.com/denials/co-24/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-24/</guid>
+    <description>The payer says this service is included in a capitated arrangement, so there is no separate fee-for-service payment.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-15: Authorization number missing or invalid</title>
+    <link>https://softhomeglobal.com/denials/co-15/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-15/</guid>
+    <description>There is an authorisation requirement here, and the number you sent is absent, wrong, or does not cover what was billed.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-10: Diagnosis inconsistent with patient gender</title>
+    <link>https://softhomeglobal.com/denials/co-10/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-10/</guid>
+    <description>The diagnosis code is one the payer only accepts for a different gender marker than the one on the claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-9: Diagnosis inconsistent with patient age</title>
+    <link>https://softhomeglobal.com/denials/co-9/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-9/</guid>
+    <description>The diagnosis code you sent is one the payer only accepts for a different age group.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-5: Procedure inconsistent with place of service</title>
+    <link>https://softhomeglobal.com/denials/co-5/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-5/</guid>
+    <description>The code you billed is not one the payer accepts for the setting the service happened in.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>PR-1: Deductible amount</title>
+    <link>https://softhomeglobal.com/denials/pr-1/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/pr-1/</guid>
+    <description>The payer applied this amount to the patient’s deductible. It is not a denial — it is the plan working as designed, and the balance is the patient’s.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-286: Appeal time limits not met</title>
+    <link>https://softhomeglobal.com/denials/co-286/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-286/</guid>
+    <description>The appeal arrived after the payer’s deadline. The clock for appealing is separate from, and usually shorter than, the clock for filing.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>PR-31: Patient cannot be identified as our insured</title>
+    <link>https://softhomeglobal.com/denials/pr-31/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/pr-31/</guid>
+    <description>The payer cannot match the patient to a member record. Usually a demographic or identifier mismatch rather than a coverage lapse.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-107: Related or qualifying claim not identified</title>
+    <link>https://softhomeglobal.com/denials/co-107/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-107/</guid>
+    <description>This service only pays when it is linked to another one, and the link is missing from the claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-231: Mutually exclusive procedures</title>
+    <link>https://softhomeglobal.com/denials/co-231/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-231/</guid>
+    <description>The two procedures billed cannot clinically or by rule both have happened at the same encounter.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-236: Procedure/modifier combination not compatible</title>
+    <link>https://softhomeglobal.com/denials/co-236/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-236/</guid>
+    <description>Two things billed on the same day conflict under NCCI edits or a state fee schedule. The pair is the problem, not either code alone.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-8: Procedure inconsistent with provider type</title>
+    <link>https://softhomeglobal.com/denials/co-8/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-8/</guid>
+    <description>The payer does not expect a provider of this specialty to bill this code, based on the taxonomy attached to the claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-185: Rendering provider not eligible</title>
+    <link>https://softhomeglobal.com/denials/co-185/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-185/</guid>
+    <description>The payer does not accept this provider as eligible for this service — an enrollment, credentialing or scope-of-practice problem rather than a coding one.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>OA-23: Prior payer’s adjudication</title>
+    <link>https://softhomeglobal.com/denials/oa-23/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/oa-23/</guid>
+    <description>This is a coordination of benefits adjustment on a secondary claim. It reflects what the primary payer already did rather than a problem with your claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>PR-204: Not covered under the patient’s current plan</title>
+    <link>https://softhomeglobal.com/denials/pr-204/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/pr-204/</guid>
+    <description>The service itself is excluded from this particular plan. This is a benefit design decision, not a coding error.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-288: Referral absent</title>
+    <link>https://softhomeglobal.com/denials/co-288/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-288/</guid>
+    <description>The plan required a referral from the patient’s primary care physician and there is not one on file for this visit.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-198: Prior authorization exceeded</title>
+    <link>https://softhomeglobal.com/denials/co-198/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-198/</guid>
+    <description>An authorization exists. The problem is that you went past what it allowed — more units, more visits, or a longer date range than was approved.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-252: Additional documentation required</title>
+    <link>https://softhomeglobal.com/denials/co-252/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-252/</guid>
+    <description>The payer will not decide until it sees paperwork. Nothing happens until it arrives.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-234: Procedure not paid separately</title>
+    <link>https://softhomeglobal.com/denials/co-234/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-234/</guid>
+    <description>The payer treats this service as part of another one, similar to CO-97 but usually driven by the fee schedule rather than an NCCI edit.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-170: Payment denied for this provider type</title>
+    <link>https://softhomeglobal.com/denials/co-170/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-170/</guid>
+    <description>The service may be covered, but not when delivered or billed by a provider of this type.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-140: Patient identification number and name do not match</title>
+    <link>https://softhomeglobal.com/denials/co-140/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-140/</guid>
+    <description>The member ID and the name on the claim disagree with the payer’s record.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-119: Benefit maximum reached</title>
+    <link>https://softhomeglobal.com/denials/co-119/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-119/</guid>
+    <description>The patient has used up what the plan allows for this benefit in this period.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-96: Non-covered charges</title>
+    <link>https://softhomeglobal.com/denials/co-96/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-96/</guid>
+    <description>The plan does not cover this service at all. Distinct from medical necessity, which is an argument about evidence.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-11: Diagnosis inconsistent with the procedure</title>
+    <link>https://softhomeglobal.com/denials/co-11/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-11/</guid>
+    <description>The payer does not accept that the diagnosis submitted justifies the procedure performed.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-4: Procedure code inconsistent with the modifier</title>
+    <link>https://softhomeglobal.com/denials/co-4/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-4/</guid>
+    <description>The code and the modifier disagree, or a modifier the payer required was not there.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-B7: Provider not certified or eligible on this date</title>
+    <link>https://softhomeglobal.com/denials/co-b7/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-b7/</guid>
+    <description>A credentialing or enrollment problem. Nothing this provider bills to this payer will pay until it is fixed, and it is usually not one claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-109: Not covered by this payer or contractor</title>
+    <link>https://softhomeglobal.com/denials/co-109/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-109/</guid>
+    <description>It went to the wrong place.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-151: Information does not support this many services</title>
+    <link>https://softhomeglobal.com/denials/co-151/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-151/</guid>
+    <description>The payer accepts the service but not the quantity or the frequency at which it was billed.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-27: Expenses incurred after coverage terminated</title>
+    <link>https://softhomeglobal.com/denials/co-27/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-27/</guid>
+    <description>The patient was not covered on the date of service.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-22: May be covered by another payer</title>
+    <link>https://softhomeglobal.com/denials/co-22/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-22/</guid>
+    <description>The payer thinks somebody else is primary. Until coordination of benefits is corrected on their file, nothing on this claim will pay.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-18: Exact duplicate claim or service</title>
+    <link>https://softhomeglobal.com/denials/co-18/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-18/</guid>
+    <description>The payer already has this claim. Usually harmless, occasionally a sign that the original is stuck.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-97: Included in the payment for another service</title>
+    <link>https://softhomeglobal.com/denials/co-97/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-97/</guid>
+    <description>The payer is bundling this code into another one on the same claim. Sometimes that is correct and sometimes it is not.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-45: Charge exceeds the fee schedule</title>
+    <link>https://softhomeglobal.com/denials/co-45/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-45/</guid>
+    <description>A contractual write-off rather than a denial. It only becomes a problem when the allowed amount is wrong.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-50: Not deemed medically necessary</title>
+    <link>https://softhomeglobal.com/denials/co-50/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-50/</guid>
+    <description>The payer does not accept that the documentation supports the service. This is a clinical argument, not a clerical one.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-29: Time limit for filing has expired</title>
+    <link>https://softhomeglobal.com/denials/co-29/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-29/</guid>
+    <description>The claim arrived after the payer’s filing deadline. This one is usually terminal, which is why it deserves attention before it happens rather than after.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-16: Claim lacks information or has a submission error</title>
+    <link>https://softhomeglobal.com/denials/co-16/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-16/</guid>
+    <description>Something on the claim is missing or malformed. On its own the code tells you nothing — the detail is in the remark code that comes with it.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-197: Prior authorization absent</title>
+    <link>https://softhomeglobal.com/denials/co-197/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-197/</guid>
+    <description>The payer required prior authorization for this service and cannot find one attached to the claim.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What to actually ask about offshore data security</title>
+    <link>https://softhomeglobal.com/insights/offshore-team-security-questions/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/offshore-team-security-questions/</guid>
+    <description>HIPAA does not prohibit offshore work. What it requires is specific, and most vendor security pages answer a different question.</description>
+    <category>Security</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fringe benefits on certified payroll, explained properly</title>
+    <link>https://softhomeglobal.com/insights/davis-bacon-fringe-benefits/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/davis-bacon-fringe-benefits/</guid>
+    <description>In our experience the second most common rejection, and the one that turns into a back-wage finding rather than a bounced filing.</description>
+    <category>Certified payroll</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What a missed revalidation actually costs</title>
+    <link>https://softhomeglobal.com/insights/credentialing-lapse-costs/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/credentialing-lapse-costs/</guid>
+    <description>It is never one claim. A lapsed enrollment stops payment on everything behind it, and the recovery window is measured in weeks.</description>
+    <category>Credentialing</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Days in AR: what good actually looks like</title>
+    <link>https://softhomeglobal.com/insights/days-in-ar-what-good-looks-like/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/days-in-ar-what-good-looks-like/</guid>
+    <description>The benchmark everyone quotes is 30 to 40 days. That number is useless on its own, and this explains what to measure instead.</description>
+    <category>Accounts receivable</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The eligibility checks that pay for themselves</title>
+    <link>https://softhomeglobal.com/insights/eligibility-checks-that-pay-for-themselves/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/eligibility-checks-that-pay-for-themselves/</guid>
+    <description>Verifying at registration instead of at every visit is the cheapest mistake in a practice. Three denial codes explain why.</description>
+    <category>Eligibility</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Twelve questions to ask any offshore billing vendor</title>
+    <link>https://softhomeglobal.com/insights/offshore-billing-what-to-ask/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/offshore-billing-what-to-ask/</guid>
+    <description>Including the four we would find awkward. A vendor that cannot answer these plainly is telling you something.</description>
+    <category>Choosing a vendor</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The five reasons certified payroll comes back rejected</title>
+    <link>https://softhomeglobal.com/insights/certified-payroll-rejections/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/certified-payroll-rejections/</guid>
+    <description>In order of how often we see them in public filing data, and why the fifth is the one that holds up a progress payment.</description>
+    <category>Certified payroll</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The prior authorization checklist that prevents CO-197</title>
+    <link>https://softhomeglobal.com/insights/prior-authorization-checklist/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/prior-authorization-checklist/</guid>
+    <description>CO-197 is the most preventable denial in medicine. Six checks before the visit stop almost all of them, and each takes under a minute.</description>
+    <category>Prior authorization</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why claims sit at 90 days, and what actually moves them</title>
+    <link>https://softhomeglobal.com/insights/why-claims-sit-at-90-days/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/insights/why-claims-sit-at-90-days/</guid>
+    <description>A balance passes 90 days for one of four reasons, and only one is the payer’s fault. How to tell them apart before spending labour on the wrong pile.</description>
+    <category>Accounts receivable</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

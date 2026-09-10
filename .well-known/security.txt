@@ -1,0 +1,24 @@
+# Soft Home Global — how to report a security problem.
+#
+# Published because every enterprise security review asks for it, and because a company handling
+# protected health information under business associate agreements has no business being hard to
+# report a vulnerability to. If you have found something, we would rather hear it from you.
+
+Contact: mailto:ops@softhomeglobal.com
+Contact: https://softhomeglobal.com/contact/
+Expires: 2027-08-29T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://softhomeglobal.com/.well-known/security.txt
+Policy: https://softhomeglobal.com/security/
+
+# What we ask:
+#   Give us a reasonable window to fix it before publishing.
+#   Do not access, modify or retain anybody else's data. If you encounter protected health
+#   information, stop, and tell us what you saw rather than keeping a copy.
+#   Do not run denial-of-service tests or anything that degrades service for the practices
+#   who depend on this system during their working day.
+#
+# What we will do:
+#   Acknowledge within one business day.
+#   Tell you what we found and when it is fixed.
+#   Credit you if you want it and stay quiet if you do not.
