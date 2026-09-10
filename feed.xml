@@ -458,7 +458,7 @@
     <title>CO-273: Coverage or program guidelines exceeded</title>
     <link>https://softhomeglobal.com/denials/co-273/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/co-273/</guid>
-    <description>The service is covered, but this instance went past a limit in the programme: more visits, more units, a longer course, a higher level than the guideline allows.</description>
+    <description>The service is covered, but this instance went past a programme limit: more visits, units or sessions than the guideline allows.</description>
     <category>Denial codes</category>
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
@@ -826,7 +826,7 @@
     <title>CO-B7: Provider not certified or eligible on this date</title>
     <link>https://softhomeglobal.com/denials/co-b7/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/co-b7/</guid>
-    <description>A credentialing or enrollment problem. Nothing this provider bills to this payer will pay until it is fixed, and it is usually not one claim.</description>
+    <description>A credentialing or enrollment problem rather than a claim problem: nothing this provider bills to this payer will pay until it is fixed, and it is rarely one claim.</description>
     <category>Denial codes</category>
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
