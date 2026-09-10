@@ -512,7 +512,7 @@
 - [The 8-minute rule, and the units it costs you](https://softhomeglobal.com/insights/physical-therapy-8-minute-rule/)
 - [Modifier 26 and TC: who bills which half](https://softhomeglobal.com/insights/modifier-26-and-tc/)
 - [How eligibility verification actually works](https://softhomeglobal.com/insights/how-eligibility-verification-works/)
-- [How prior authorisation works, start to finish](https://softhomeglobal.com/insights/how-prior-authorization-works/)
+- [How prior authorization works, start to finish](https://softhomeglobal.com/insights/how-prior-authorization-works/)
 - [How denial management works, and what it costs to skip](https://softhomeglobal.com/insights/how-denial-management-works/)
 - [How payment posting works, and where money hides](https://softhomeglobal.com/insights/how-payment-posting-works/)
 - [How charge entry and claim submission work](https://softhomeglobal.com/insights/how-charge-entry-works/)
