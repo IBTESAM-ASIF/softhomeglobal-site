@@ -115,6 +115,7 @@
 ## Denial codes
 
 - [Free denial code lookup](https://softhomeglobal.com/denial-lookup/)
+- [Remark code lookup and remittance line decoder](https://softhomeglobal.com/remark-code-lookup/)
 - [Denial code guides](https://softhomeglobal.com/denials/)
 - [CO-197 — Prior authorization absent](https://softhomeglobal.com/denials/co-197/)
 - [CO-16 — Claim lacks information or has a submission error](https://softhomeglobal.com/denials/co-16/)
