@@ -455,6 +455,22 @@
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>CO-273: Coverage or program guidelines exceeded</title>
+    <link>https://softhomeglobal.com/denials/co-273/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-273/</guid>
+    <description>The service is covered, but this instance went past a limit in the programme: more visits, more units, a longer course, a higher level than the guideline allows.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CO-B10: Allowed amount reduced — a component of the procedure was already paid</title>
+    <link>https://softhomeglobal.com/denials/co-b10/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/co-b10/</guid>
+    <description>The payer paid part of this procedure on another line or claim and has reduced this one to the difference, so the practice is not paid twice for the same work.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>CO-272: Coverage or program guidelines not met</title>
     <link>https://softhomeglobal.com/denials/co-272/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/co-272/</guid>
