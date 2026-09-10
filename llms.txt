@@ -182,6 +182,16 @@
 - [N54 — Claim inconsistent with the authorized services](https://softhomeglobal.com/denials/n54/)
 - [N115 — Decision based on a Local Coverage Determination](https://softhomeglobal.com/denials/n115/)
 - [N122 — Add-on code cannot be billed by itself](https://softhomeglobal.com/denials/n122/)
+- [N362 — Units of service exceed the payer’s maximum](https://softhomeglobal.com/denials/n362/)
+- [N381 — Adjusted per the contract — read the contract](https://softhomeglobal.com/denials/n381/)
+- [N522 — Duplicate of a crossover claim](https://softhomeglobal.com/denials/n522/)
+- [MA30 — Missing, incomplete or invalid type of bill](https://softhomeglobal.com/denials/ma30/)
+- [N830 — Processed under surprise-billing rules — the patient cannot be balance billed](https://softhomeglobal.com/denials/n830/)
+- [M115 — Denied — not a contract supplier for this item](https://softhomeglobal.com/denials/m115/)
+- [MA27 — Missing, incomplete or invalid Medicare number or name](https://softhomeglobal.com/denials/ma27/)
+- [M51 — Missing, incomplete or invalid procedure code](https://softhomeglobal.com/denials/m51/)
+- [N4 — Missing or invalid primary payer explanation of benefits](https://softhomeglobal.com/denials/n4/)
+- [N290 — Missing, incomplete or invalid rendering provider identifier](https://softhomeglobal.com/denials/n290/)
 
 ## By state
 

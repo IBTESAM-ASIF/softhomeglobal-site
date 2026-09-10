@@ -303,6 +303,86 @@
     <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>N290: Missing, incomplete or invalid rendering provider identifier</title>
+    <link>https://softhomeglobal.com/denials/n290/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n290/</guid>
+    <description>The NPI of the clinician who performed the service is missing from the claim, is not a valid NPI, or is not one the payer has linked to your group.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N4: Missing or invalid primary payer explanation of benefits</title>
+    <link>https://softhomeglobal.com/denials/n4/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n4/</guid>
+    <description>The secondary payer will not adjudicate without the primary payer’s decision: what was allowed, paid and adjusted, line by line.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>M51: Missing, incomplete or invalid procedure code</title>
+    <link>https://softhomeglobal.com/denials/m51/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/m51/</guid>
+    <description>The code on the line is not one the payer recognises for that date: deleted, mistyped, or from the wrong code set.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>MA27: Missing, incomplete or invalid Medicare number or name</title>
+    <link>https://softhomeglobal.com/denials/ma27/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/ma27/</guid>
+    <description>Medicare cannot match the beneficiary: the Medicare Beneficiary Identifier or the name on the claim does not agree with the entitlement record.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>M115: Denied — not a contract supplier for this item</title>
+    <link>https://softhomeglobal.com/denials/m115/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/m115/</guid>
+    <description>A DMEPOS competitive bidding denial: for this item, in this area, Medicare pays only suppliers holding a contract, and this claim came from one that does not.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N830: Processed under surprise-billing rules — the patient cannot be balance billed</title>
+    <link>https://softhomeglobal.com/denials/n830/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n830/</guid>
+    <description>An out-of-network service the payer processed under federal or state surprise-billing rules: the patient owes only the PR amount, and any dispute over the payment is with the payer, not the patient.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>MA30: Missing, incomplete or invalid type of bill</title>
+    <link>https://softhomeglobal.com/denials/ma30/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/ma30/</guid>
+    <description>A facility claim problem: the three-digit type of bill in field 4 of the UB-04 does not fit the facility, the claim, or the frequency.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N522: Duplicate of a crossover claim</title>
+    <link>https://softhomeglobal.com/denials/n522/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n522/</guid>
+    <description>The secondary payer already has this claim — Medicare forwarded it automatically — and the copy you sent is the duplicate.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N381: Adjusted per the contract — read the contract</title>
+    <link>https://softhomeglobal.com/denials/n381/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n381/</guid>
+    <description>An alert, not a denial: the payer processed the line under your contract and is pointing you at it. The reason code beside it carries the money.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>N362: Units of service exceed the payer’s maximum</title>
+    <link>https://softhomeglobal.com/denials/n362/</link>
+    <guid isPermaLink="true">https://softhomeglobal.com/denials/n362/</guid>
+    <description>The line carries more units than the payer allows for that code on one date, so it rejected the quantity rather than the service.</description>
+    <category>Denial codes</category>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>N122: Add-on code cannot be billed by itself</title>
     <link>https://softhomeglobal.com/denials/n122/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/n122/</guid>
