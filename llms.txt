@@ -116,6 +116,7 @@
 
 - [Free denial code lookup](https://softhomeglobal.com/denial-lookup/)
 - [Remark code lookup and remittance line decoder](https://softhomeglobal.com/remark-code-lookup/)
+- [Timely filing limits by payer, with a deadline calculator](https://softhomeglobal.com/timely-filing-limits/)
 - [Denial code guides](https://softhomeglobal.com/denials/)
 - [CO-197 — Prior authorization absent](https://softhomeglobal.com/denials/co-197/)
 - [CO-16 — Claim lacks information or has a submission error](https://softhomeglobal.com/denials/co-16/)
@@ -562,6 +563,19 @@
 - [Scheduling — 3 articles](https://softhomeglobal.com/insights/topic/scheduling/)
 - [Payment posting — 2 articles](https://softhomeglobal.com/insights/topic/payment-posting/)
 
+
+## Facts
+
+- What it is: Healthcare BPO and revenue cycle management
+- Where we are: Rawalpindi, Pakistan
+- Who we work for: US practices, billing companies and contractors
+- Staffing model: One dedicated full-time person per seat, in your own system
+- Hours: Your business hours, in your timezone
+- Pricing: Published per role, $1,500 to $2,500 a seat a month
+- Minimum: One month
+- Percentage of collections: Never
+- Before any access: A signed business associate agreement
+- Founded by: Ibtesam Asif, who answers for the work
 
 ## Pricing summary
 
