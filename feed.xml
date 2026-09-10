@@ -23,7 +23,7 @@
     <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>How long payer enrolment actually takes</title>
+    <title>How long payer enrollment actually takes</title>
     <link>https://softhomeglobal.com/insights/credentialing-timeline/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/insights/credentialing-timeline/</guid>
     <description>The honest ranges, what makes each one longer, and the dates that quietly deactivate a provider who is already enrolled.</description>
@@ -55,10 +55,10 @@
     <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Why prior authorisations get delayed, and how to stop it</title>
+    <title>Why prior authorizations get delayed, and how to stop it</title>
     <link>https://softhomeglobal.com/insights/why-prior-authorizations-get-delayed/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/insights/why-prior-authorizations-get-delayed/</guid>
-    <description>Almost every authorisation delay traces to one of eight causes, and six of them are inside the practice rather than at the payer.</description>
+    <description>Almost every authorization delay traces to one of eight causes, and six of them are inside the practice rather than at the payer.</description>
     <category>Prior authorization</category>
     <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
   </item>
@@ -319,10 +319,10 @@
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>N54: Claim inconsistent with the authorised services</title>
+    <title>N54: Claim inconsistent with the authorized services</title>
     <link>https://softhomeglobal.com/denials/n54/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/n54/</guid>
-    <description>There is an authorisation, and what was billed does not match what it covers.</description>
+    <description>There is an authorization, and what was billed does not match what it covers.</description>
     <category>Denial codes</category>
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
@@ -498,7 +498,7 @@
     <title>CO-39: Services denied at the time authorization was requested</title>
     <link>https://softhomeglobal.com/denials/co-39/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/co-39/</guid>
-    <description>The authorisation was asked for and refused, and the service was delivered anyway.</description>
+    <description>The authorization was asked for and refused, and the service was delivered anyway.</description>
     <category>Denial codes</category>
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
@@ -522,7 +522,7 @@
     <title>CO-32: Patient is not an eligible dependent</title>
     <link>https://softhomeglobal.com/denials/co-32/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/co-32/</guid>
-    <description>The payer does not recognise this patient as a covered dependent on the subscriber’s policy.</description>
+    <description>The payer does not recognize this patient as a covered dependent on the subscriber’s policy.</description>
     <category>Denial codes</category>
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
@@ -538,7 +538,7 @@
     <title>CO-15: Authorization number missing or invalid</title>
     <link>https://softhomeglobal.com/denials/co-15/</link>
     <guid isPermaLink="true">https://softhomeglobal.com/denials/co-15/</guid>
-    <description>There is an authorisation requirement here, and the number you sent is absent, wrong, or does not cover what was billed.</description>
+    <description>There is an authorization requirement here, and the number you sent is absent, wrong, or does not cover what was billed.</description>
     <category>Denial codes</category>
     <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
   </item>
