@@ -407,6 +407,9 @@
 - [Medicare revalidation due date lookup](https://softhomeglobal.com/revalidation-lookup/)
 - [Cost calculator](https://softhomeglobal.com/calculator/)
 - [In-house, percentage vendor, or a seat](https://softhomeglobal.com/compare/)
+- [Soft Home Global vs Ataraxis](https://softhomeglobal.com/compare/ataraxis/)
+- [Soft Home Global vs MedVirtual](https://softhomeglobal.com/compare/medvirtual/)
+- [Soft Home Global vs MCVO Talent](https://softhomeglobal.com/compare/mcvo-talent/)
 - [Search](https://softhomeglobal.com/search/)
 - [Editorial policy](https://softhomeglobal.com/editorial-policy/)
 - [Systems we work in](https://softhomeglobal.com/integrations/)
@@ -432,6 +435,7 @@
 ## Free tools
 
 - [Prompt pay deadline calculator](https://softhomeglobal.com/prompt-pay-calculator/)
+- [AR aging analyzer](https://softhomeglobal.com/ar-aging-analyzer/)
 - [Percentage of collections vs a flat monthly fee](https://softhomeglobal.com/cost-calculator/)
 - [Revenue leakage calculator](https://softhomeglobal.com/revenue-leakage/)
 - [Which denials to work first](https://softhomeglobal.com/denial-priority/)
@@ -610,6 +614,7 @@
 
 - State-specific pricing and payer notes across the US (see /medicaid-by-state/)
 - Specialty programs under /specialties/, including pain management and orthopedic billing
-- Free tools: denial code lookup (/denial-lookup/) and the free AR audit (/free-ar-audit/)
+- Free tools: denial code lookup (/denial-lookup/), the AR aging analyzer (/ar-aging-analyzer/, reads an aged AR export in the browser, nothing uploaded) and the free AR audit (/free-ar-audit/)
+- Named-vendor comparisons on published prices, quoted and dated: /compare/ataraxis/, /compare/medvirtual/, /compare/mcvo-talent/
 
 Contact: ops@softhomeglobal.com · https://softhomeglobal.com/contact/
