@@ -250,5 +250,4 @@ Disallow: /c/
 Disallow: /portal/
 Disallow: /api/
 
-Host: https://softhomeglobal.com
 Sitemap: https://softhomeglobal.com/sitemap.xml
