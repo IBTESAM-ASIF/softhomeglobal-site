@@ -120,6 +120,8 @@
 - [What your denials cost: a calculator](https://softhomeglobal.com/denial-cost-calculator/)
 - [Days in AR and net collection rate calculator](https://softhomeglobal.com/days-in-ar-calculator/)
 - [Good Faith Estimate template generator](https://softhomeglobal.com/good-faith-estimate/)
+- [Write-off threshold calculator](https://softhomeglobal.com/write-off-threshold/)
+- [Denial prevention checklist by specialty](https://softhomeglobal.com/denial-prevention-checklist/)
 - [Free denial code lookup](https://softhomeglobal.com/denial-lookup/)
 - [Remark code lookup and remittance line decoder](https://softhomeglobal.com/remark-code-lookup/)
 - [Timely filing limits by payer, with a deadline calculator](https://softhomeglobal.com/timely-filing-limits/)
